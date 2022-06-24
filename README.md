@@ -59,4 +59,5 @@ After you've made sure to have npm working, run this in command line:
 ```bash
 npm install
 grunt
-```
+git push origin --force --all
+
